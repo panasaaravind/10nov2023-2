@@ -1,0 +1,15 @@
+div#a1,div#a2,div#a3{
+    width: 300px;
+    height: 300px;
+    border: dashed black 10px;
+    display: inline-block;
+}
+#a1{
+    background-color: red;
+}
+#a2{
+    background-color: green;
+}
+#a3{
+    background-color: yellow;
+}
